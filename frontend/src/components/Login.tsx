@@ -66,7 +66,7 @@ function Login()
 
     return(
       <div id="loginDiv">
-        <span id="inner-title">PLEASE LOG IN</span><br />
+        <span id="inner-title">PLEASE LOG IN 123</span><br />
         Login: <input type="text" id="loginName" placeholder="Username" 
           onChange={handleSetLoginName} /><br />
         Password: <input type="password" id="loginPassword" placeholder="Password" 
